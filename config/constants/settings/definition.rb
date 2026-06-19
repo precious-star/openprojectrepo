@@ -1196,7 +1196,7 @@ module Settings
       },
       software_name: {
         description: "Override software application name",
-        default: "OpenProject"
+        default: "myProject Manager"
       },
       software_url: {
         description: "Override software application URL",
