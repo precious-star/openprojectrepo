@@ -76,7 +76,7 @@ module Settings
         default: false
       },
       app_title: {
-        default: "OpenProject"
+        default: "myProject Manager"
       },
       organization_name: {
         default: "My Organization"
